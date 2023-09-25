@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o @Carlos-Egger
-- 👀 Buscando trabalhar como desenvolvedor Back End
-- 🌱 Aprofundando meu conhecimentos na linguagem Java
+- 👀 Estagiário como desenvolvedor FullStack
+- 🌱 Desenvolvendo aplicações completas com React/Nodejs
 - ✉ Contate-me no email: carlos.eggern@gmail.com  ✉
 
 <!---
