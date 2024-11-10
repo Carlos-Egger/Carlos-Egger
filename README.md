@@ -19,7 +19,7 @@ Olá! Sou o Carlos Egger, cientista de dados apaixonado por transformar dados em
 
 ## 🌐 Projetos em Destaque
 
-- **[Aplicação de Análise Geográfica de Startups nos EUA](#)**: Aplicativo em Streamlit com análise detalhada sobre a distribuição geográfica e status das startups americanas.
+- **Aplicação de Análise Geográfica de Startups nos EUA**: Aplicativo em Streamlit com análise detalhada sobre a distribuição geográfica e status das startups americanas.
 - **Formulários Dinâmicos para Histopatologia**: Desenvolvimento de formulários dinâmicos para coleta de dados em exames histopatológicos, projetados para seguir padrões médicos específicos.
   
 ## 📚 Conteúdos Recentemente Estudados em Inteligência Artificial
