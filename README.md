@@ -8,8 +8,8 @@ Olá! Sou o Carlos Egger, cientista de dados apaixonado por transformar dados em
 
 ## 🔍 Sobre Mim  
 
-- **Experiência Profissional**: Cientista de Dados no **IPCM** e pesquisador no grupo **LAPES** em Inteligência Artificial e Engenharia de Software.  
-- **Educação & Monitoria**:  
+- **Atuação Profissional**: Cientista de Dados no **IPCM** e pesquisador no grupo **LAPES** em Inteligência Artificial e Engenharia de Software.  
+- **Educação**:  
   - 🧮 **Monitor de Resolução de Problemas Multivariáveis**: Auxiliando estudantes na compreensão de técnicas avançadas de análise matemática e computacional.  
   - 🤖 **Monitor de Machine Learning**: Ajudando alunos a entender os fundamentos de aprendizado de máquina, desde estatística e pré-processamento de dados até modelagem preditiva e redes neurais. Essa experiência fortalece minha didática e reforça conceitos essenciais para o desenvolvimento de modelos mais eficientes.  
 
